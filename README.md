@@ -146,4 +146,4 @@ Visit http://localhost:8081/hello
 Response:
 Hello, Spring Boot!
 
-<img width="2168" alt="Screenshot 2025-04-26 at 09 00 54" src="https://github.com/user-attachments/assets/12a88d01-c1bd-45f2-8e25-5eacfa8e1e8c" />
+
